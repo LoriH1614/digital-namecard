@@ -7,7 +7,7 @@ ORG:Fremont Bank;
 TITLE:Executive Assistant\nCommercial Lending
 EMAIL;type=INTERNET;type=WORK;type=pref:lori.hollingsworth@fremontbank.com
 TEL;type=WORK;type=VOICE:925 315-3539
-item1.ADR;type=WORK;type=pref:;;2580 Shea Center Drive\nLivermore\, CA;;;CA 
+item1.ADR;type=WORK;type=pref:;;2580 Shea Center Drive\nLivermore\, CA
 item1.X-ABADR:sg
 item2.URL;type=pref:fremontbank.com
 item2.X-ABLabel:_$!<HomePage>!$_
